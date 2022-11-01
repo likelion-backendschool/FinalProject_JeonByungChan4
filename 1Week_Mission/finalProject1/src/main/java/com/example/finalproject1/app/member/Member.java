@@ -1,6 +1,6 @@
 package com.example.finalproject1.app.member;
 
-import com.example.finalproject1.base.BaseEntity;
+import com.example.finalproject1.app.base.BaseEntity;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.*;
 import lombok.experimental.SuperBuilder;

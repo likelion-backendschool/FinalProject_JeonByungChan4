@@ -1,6 +1,6 @@
 package com.example.finalproject1.app.postkeyword;
 
-import com.example.finalproject1.base.BaseEntity;
+import com.example.finalproject1.app.base.BaseEntity;
 import lombok.*;
 import lombok.experimental.SuperBuilder;
 

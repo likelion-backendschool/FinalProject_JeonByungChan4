@@ -1,4 +1,4 @@
-package com.example.finalproject1.base;
+package com.example.finalproject1.app.base;
 
 import lombok.*;
 import lombok.experimental.SuperBuilder;

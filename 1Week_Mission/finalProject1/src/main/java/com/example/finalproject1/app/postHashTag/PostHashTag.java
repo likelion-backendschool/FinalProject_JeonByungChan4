@@ -3,7 +3,7 @@ package com.example.finalproject1.app.postHashTag;
 import com.example.finalproject1.app.member.Member;
 import com.example.finalproject1.app.post.Post;
 import com.example.finalproject1.app.postkeyword.PostKeyword;
-import com.example.finalproject1.base.BaseEntity;
+import com.example.finalproject1.app.base.BaseEntity;
 import lombok.*;
 import lombok.experimental.SuperBuilder;
 import org.hibernate.annotations.OnDelete;
